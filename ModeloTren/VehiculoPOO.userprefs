@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\vehiculo.cs">
+    <Files>
+      <File FileName="Assets\main.cs" Line="7" Column="2" />
+      <File FileName="Assets\vehiculo.cs" Line="23" Column="1" />
+      <File FileName="Assets\cuerpo.cs" Line="11" Column="1" />
+      <File FileName="Assets\faros.cs" Line="10" Column="1" />
+      <File FileName="Assets\luz.cs" Line="10" Column="1" />
+      <File FileName="Assets\placas.cs" Line="10" Column="1" />
+      <File FileName="Assets\ruedas.cs" Line="10" Column="1" />
+      <File FileName="Assets\ventanas.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
